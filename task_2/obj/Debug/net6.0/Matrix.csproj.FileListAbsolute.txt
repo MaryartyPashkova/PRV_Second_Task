@@ -1,0 +1,15 @@
+C:\Users\missa\OneDrive\Рабочий стол\7 semestr\ПРВ\ПРВ_Тредс_2задание\task_2\bin\Debug\net6.0\Matrix.exe
+C:\Users\missa\OneDrive\Рабочий стол\7 semestr\ПРВ\ПРВ_Тредс_2задание\task_2\bin\Debug\net6.0\Matrix.deps.json
+C:\Users\missa\OneDrive\Рабочий стол\7 semestr\ПРВ\ПРВ_Тредс_2задание\task_2\bin\Debug\net6.0\Matrix.runtimeconfig.json
+C:\Users\missa\OneDrive\Рабочий стол\7 semestr\ПРВ\ПРВ_Тредс_2задание\task_2\bin\Debug\net6.0\Matrix.dll
+C:\Users\missa\OneDrive\Рабочий стол\7 semestr\ПРВ\ПРВ_Тредс_2задание\task_2\bin\Debug\net6.0\Matrix.pdb
+C:\Users\missa\OneDrive\Рабочий стол\7 semestr\ПРВ\ПРВ_Тредс_2задание\task_2\obj\Debug\net6.0\Matrix.csproj.AssemblyReference.cache
+C:\Users\missa\OneDrive\Рабочий стол\7 semestr\ПРВ\ПРВ_Тредс_2задание\task_2\obj\Debug\net6.0\Matrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\missa\OneDrive\Рабочий стол\7 semestr\ПРВ\ПРВ_Тредс_2задание\task_2\obj\Debug\net6.0\Matrix.AssemblyInfoInputs.cache
+C:\Users\missa\OneDrive\Рабочий стол\7 semestr\ПРВ\ПРВ_Тредс_2задание\task_2\obj\Debug\net6.0\Matrix.AssemblyInfo.cs
+C:\Users\missa\OneDrive\Рабочий стол\7 semestr\ПРВ\ПРВ_Тредс_2задание\task_2\obj\Debug\net6.0\Matrix.csproj.CoreCompileInputs.cache
+C:\Users\missa\OneDrive\Рабочий стол\7 semestr\ПРВ\ПРВ_Тредс_2задание\task_2\obj\Debug\net6.0\Matrix.dll
+C:\Users\missa\OneDrive\Рабочий стол\7 semestr\ПРВ\ПРВ_Тредс_2задание\task_2\obj\Debug\net6.0\refint\Matrix.dll
+C:\Users\missa\OneDrive\Рабочий стол\7 semestr\ПРВ\ПРВ_Тредс_2задание\task_2\obj\Debug\net6.0\Matrix.pdb
+C:\Users\missa\OneDrive\Рабочий стол\7 semestr\ПРВ\ПРВ_Тредс_2задание\task_2\obj\Debug\net6.0\Matrix.genruntimeconfig.cache
+C:\Users\missa\OneDrive\Рабочий стол\7 semestr\ПРВ\ПРВ_Тредс_2задание\task_2\obj\Debug\net6.0\ref\Matrix.dll

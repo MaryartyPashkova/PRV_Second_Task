@@ -1,0 +1,60 @@
+C:\Users\Ekate\source\task_2\task_2\bin\Debug\net6.0\task_2.exe
+C:\Users\Ekate\source\task_2\task_2\bin\Debug\net6.0\task_2.deps.json
+C:\Users\Ekate\source\task_2\task_2\bin\Debug\net6.0\task_2.runtimeconfig.json
+C:\Users\Ekate\source\task_2\task_2\bin\Debug\net6.0\task_2.dll
+C:\Users\Ekate\source\task_2\task_2\bin\Debug\net6.0\task_2.pdb
+C:\Users\Ekate\source\task_2\task_2\obj\Debug\net6.0\task_2.csproj.AssemblyReference.cache
+C:\Users\Ekate\source\task_2\task_2\obj\Debug\net6.0\task_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ekate\source\task_2\task_2\obj\Debug\net6.0\task_2.AssemblyInfoInputs.cache
+C:\Users\Ekate\source\task_2\task_2\obj\Debug\net6.0\task_2.AssemblyInfo.cs
+C:\Users\Ekate\source\task_2\task_2\obj\Debug\net6.0\task_2.csproj.CoreCompileInputs.cache
+C:\Users\Ekate\source\task_2\task_2\obj\Debug\net6.0\task_2.dll
+C:\Users\Ekate\source\task_2\task_2\obj\Debug\net6.0\refint\task_2.dll
+C:\Users\Ekate\source\task_2\task_2\obj\Debug\net6.0\task_2.pdb
+C:\Users\Ekate\source\task_2\task_2\obj\Debug\net6.0\task_2.genruntimeconfig.cache
+C:\Users\Ekate\source\task_2\task_2\obj\Debug\net6.0\ref\task_2.dll
+E:\task_2\task_2\bin\Debug\net6.0\task_2.exe
+E:\task_2\task_2\bin\Debug\net6.0\task_2.deps.json
+E:\task_2\task_2\bin\Debug\net6.0\task_2.runtimeconfig.json
+E:\task_2\task_2\bin\Debug\net6.0\task_2.dll
+E:\task_2\task_2\bin\Debug\net6.0\task_2.pdb
+E:\task_2\task_2\obj\Debug\net6.0\task_2.csproj.AssemblyReference.cache
+E:\task_2\task_2\obj\Debug\net6.0\task_2.GeneratedMSBuildEditorConfig.editorconfig
+E:\task_2\task_2\obj\Debug\net6.0\task_2.AssemblyInfoInputs.cache
+E:\task_2\task_2\obj\Debug\net6.0\task_2.AssemblyInfo.cs
+E:\task_2\task_2\obj\Debug\net6.0\task_2.csproj.CoreCompileInputs.cache
+E:\task_2\task_2\obj\Debug\net6.0\task_2.dll
+E:\task_2\task_2\obj\Debug\net6.0\refint\task_2.dll
+E:\task_2\task_2\obj\Debug\net6.0\task_2.pdb
+E:\task_2\task_2\obj\Debug\net6.0\task_2.genruntimeconfig.cache
+E:\task_2\task_2\obj\Debug\net6.0\ref\task_2.dll
+C:\Users\missa\OneDrive\Рабочий стол\task_2\task_2\bin\Debug\net6.0\task_2.exe
+C:\Users\missa\OneDrive\Рабочий стол\task_2\task_2\bin\Debug\net6.0\task_2.deps.json
+C:\Users\missa\OneDrive\Рабочий стол\task_2\task_2\bin\Debug\net6.0\task_2.runtimeconfig.json
+C:\Users\missa\OneDrive\Рабочий стол\task_2\task_2\bin\Debug\net6.0\task_2.dll
+C:\Users\missa\OneDrive\Рабочий стол\task_2\task_2\bin\Debug\net6.0\task_2.pdb
+C:\Users\missa\OneDrive\Рабочий стол\task_2\task_2\obj\Debug\net6.0\task_2.csproj.AssemblyReference.cache
+C:\Users\missa\OneDrive\Рабочий стол\task_2\task_2\obj\Debug\net6.0\task_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\missa\OneDrive\Рабочий стол\task_2\task_2\obj\Debug\net6.0\task_2.AssemblyInfoInputs.cache
+C:\Users\missa\OneDrive\Рабочий стол\task_2\task_2\obj\Debug\net6.0\task_2.AssemblyInfo.cs
+C:\Users\missa\OneDrive\Рабочий стол\task_2\task_2\obj\Debug\net6.0\task_2.csproj.CoreCompileInputs.cache
+C:\Users\missa\OneDrive\Рабочий стол\task_2\task_2\obj\Debug\net6.0\task_2.dll
+C:\Users\missa\OneDrive\Рабочий стол\task_2\task_2\obj\Debug\net6.0\refint\task_2.dll
+C:\Users\missa\OneDrive\Рабочий стол\task_2\task_2\obj\Debug\net6.0\task_2.pdb
+C:\Users\missa\OneDrive\Рабочий стол\task_2\task_2\obj\Debug\net6.0\task_2.genruntimeconfig.cache
+C:\Users\missa\OneDrive\Рабочий стол\task_2\task_2\obj\Debug\net6.0\ref\task_2.dll
+C:\Users\missa\OneDrive\Рабочий стол\ПРВ\ПРВ_Тредс_2задание\task_2\bin\Debug\net6.0\task_2.exe
+C:\Users\missa\OneDrive\Рабочий стол\ПРВ\ПРВ_Тредс_2задание\task_2\bin\Debug\net6.0\task_2.deps.json
+C:\Users\missa\OneDrive\Рабочий стол\ПРВ\ПРВ_Тредс_2задание\task_2\bin\Debug\net6.0\task_2.runtimeconfig.json
+C:\Users\missa\OneDrive\Рабочий стол\ПРВ\ПРВ_Тредс_2задание\task_2\bin\Debug\net6.0\task_2.dll
+C:\Users\missa\OneDrive\Рабочий стол\ПРВ\ПРВ_Тредс_2задание\task_2\bin\Debug\net6.0\task_2.pdb
+C:\Users\missa\OneDrive\Рабочий стол\ПРВ\ПРВ_Тредс_2задание\task_2\obj\Debug\net6.0\task_2.csproj.AssemblyReference.cache
+C:\Users\missa\OneDrive\Рабочий стол\ПРВ\ПРВ_Тредс_2задание\task_2\obj\Debug\net6.0\task_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\missa\OneDrive\Рабочий стол\ПРВ\ПРВ_Тредс_2задание\task_2\obj\Debug\net6.0\task_2.AssemblyInfoInputs.cache
+C:\Users\missa\OneDrive\Рабочий стол\ПРВ\ПРВ_Тредс_2задание\task_2\obj\Debug\net6.0\task_2.AssemblyInfo.cs
+C:\Users\missa\OneDrive\Рабочий стол\ПРВ\ПРВ_Тредс_2задание\task_2\obj\Debug\net6.0\task_2.csproj.CoreCompileInputs.cache
+C:\Users\missa\OneDrive\Рабочий стол\ПРВ\ПРВ_Тредс_2задание\task_2\obj\Debug\net6.0\task_2.dll
+C:\Users\missa\OneDrive\Рабочий стол\ПРВ\ПРВ_Тредс_2задание\task_2\obj\Debug\net6.0\refint\task_2.dll
+C:\Users\missa\OneDrive\Рабочий стол\ПРВ\ПРВ_Тредс_2задание\task_2\obj\Debug\net6.0\task_2.pdb
+C:\Users\missa\OneDrive\Рабочий стол\ПРВ\ПРВ_Тредс_2задание\task_2\obj\Debug\net6.0\task_2.genruntimeconfig.cache
+C:\Users\missa\OneDrive\Рабочий стол\ПРВ\ПРВ_Тредс_2задание\task_2\obj\Debug\net6.0\ref\task_2.dll
